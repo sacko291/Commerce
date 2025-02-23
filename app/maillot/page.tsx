@@ -8,59 +8,59 @@ const page = () => {
 
 const maillots = [
     {
-      nom: "Nom Vetement & accessoire",
+      nom: "Trinique Original",
       img: "m1.jpg",
       prix: "10 000F"
     },
     {
-      nom: "Nom Vetement & accessoire",
+      nom: "Trinique Original",
       img: "m2.jpg",
       prix: "10 000F"
     },
     {
-      nom: "Nom Vetement & accessoire",
+      nom: "Trinique Original",
       img: "m3.jpg",
       prix: "10 000F"
     },
     {
-      nom: "Nom Vetement & accessoire",
+      nom: "Trinique Original",
       img: "m4.jpg",
       prix: "10 000F"
     },
     {
-      nom: "Nom Vetement & accessoire",
+      nom: "Trinique Original",
       img: "m5.jpg",
       prix: "10 000F"
     },
     {
-      nom: "Nom Vetement & accessoire",
+      nom: "Trinique Original",
       img: "m6.jpg",
       prix: "10 000F"
     },
     {
-      nom: "Nom Vetement & accessoire",
+      nom: "Trinique Classique",
       img: "m7.jpg",
-      prix: "10 000F"
+      prix: "50 000F"
     },
     {
-      nom: "Nom Vetement & accessoire",
+      nom: "Trinique Classique",
       img: "m8.jpg",
-      prix: "10 000F"
+      prix: "50 000F"
     },
     {
-      nom: "Nom Vetement & accessoire",
+      nom: "Trinique Classique",
       img: "m9.jpg",
-      prix: "10 000F"
+      prix: "50 000F"
     },
     {
-      nom: "Nom Vetement & accessoire",
+      nom: "Trinique Classique",
       img: "m10.jpg",
-      prix: "10 000F"
+      prix: "15 000F"
     },
     {
-      nom: "Nom Vetement & accessoire",
+      nom: "Trinique Classique",
       img: "m11.jpg",
-      prix: "10 000F"
+      prix: "15 000F"
     },
     {
       nom: "Nom Vetement & accessoire",
@@ -73,9 +73,9 @@ const maillots = [
       prix: "10 000F"
     },
     {
-      nom: "Nom Vetement & accessoire",
+      nom: "Trinique Classique",
       img: "m14.jpg",
-      prix: "10 000F"
+      prix: "15 000F"
     },
     {
       nom: "Nom Vetement & accessoire",

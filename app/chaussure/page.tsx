@@ -5,228 +5,228 @@ import React from 'react'
 const page = () => {
     const data = [
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Basket",
           img: "c1.jpg",
-          prix: "10 000F"
+          prix: "20 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Basket",
           img: "c2.jpg",
-          prix: "10 000F"
+          prix: "20 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Basket",
           img: "c3.jpg",
-          prix: "10 000F"
+          prix: "20 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Basket",
           img: "c4.jpg",
           prix: "10 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Basket",
           img: "c5.jpg",
-          prix: "10 000F"
+          prix: "20 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Basket",
           img: "c6.jpg",
-          prix: "10 000F"
+          prix: "20 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Basket",
           img: "c7.jpg",
-          prix: "10 000F"
+          prix: "20 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c8.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c9.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c10.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c11.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c12.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c13.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c14.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c15.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c16.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c17.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c18.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c19.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c20.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c21.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c22.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c23.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c24.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c25.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c26.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c27.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c28.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c29.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c30.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c31.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c32.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c33.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c34.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c35.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c36.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c37.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c38.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c39.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c40.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },{
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c41.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c42.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c43.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c44.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Crampons",
           img: "c45.jpg",
-          prix: "10 000F"
+          prix: "35 000F"
         }
       ]
   return (

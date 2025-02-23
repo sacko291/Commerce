@@ -7,12 +7,12 @@ const page = () => {
     
     const ballons = [
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Ballon Fifa",
           img: "b1.jpg",
-          prix: "10 000F"
+          prix: "15 000F",
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Ballon",
           img: "b2.jpg",
           prix: "10 000F"
         }

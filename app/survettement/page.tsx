@@ -8,84 +8,84 @@ const page = () => {
 
     const survetements = [
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Survetement",
           img: "s1.jpg",
-          prix: "10 000F"
+          prix: "25 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Survetement",
           img: "s2.jpg",
-          prix: "10 000F"
+          prix: "25 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Survetement",
           img: "s3.jpg",
-          prix: "10 000F"
+          prix: "25 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Survetement",
           img: "s4.jpg",
-          prix: "10 000F"
+          prix: "25 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Survetement",
           img: "s5.jpg",
-          prix: "10 000F"
+          prix: "25 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Survetement",
           img: "s6.jpg",
-          prix: "10 000F"
+          prix: "25 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Survetement",
           img: "s7.jpg",
-          prix: "10 000F"
+          prix: "25 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Survetement",
           img: "s8.jpg",
-          prix: "10 000F"
+          prix: "25 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Survetement",
           img: "s9.jpg",
-          prix: "10 000F"
+          prix: "25 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Survetement",
           img: "s10.jpg",
-          prix: "10 000F"
+          prix: "25 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Survetement",
           img: "s11.jpg",
-          prix: "10 000F"
+          prix: "25 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Survetement",
           img: "s12.jpg",
-          prix: "10 000F"
+          prix: "25 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Survetement",
           img: "s13.jpg",
-          prix: "10 000F"
+          prix: "25 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Survetement",
           img: "s14.jpg",
-          prix: "10 000F"
+          prix: "25 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Survetement",
           img: "s15.jpg",
-          prix: "10 000F"
+          prix: "25 000F"
         },
         {
-          nom: "Nom Vetement & accessoire",
+          nom: "Survetement",
           img: "s16.jpg",
-          prix: "10 000F"
+          prix: "25 000F"
         }
       ]
       
